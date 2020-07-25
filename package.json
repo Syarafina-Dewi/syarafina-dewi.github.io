@@ -2,7 +2,7 @@
   "name": "my-portofolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://syarafina-dewi.github.io",
+  "homepage": "git@github.com:syarafina-dewi.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
